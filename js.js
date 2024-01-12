@@ -17,6 +17,7 @@ document.getElementById('Start').addEventListener('click',()=>{
             second++
             sec.innerHTML=second
             if(second==60){
+                second=0
                 hour++
                 hours.innerHTML=hour
             }
