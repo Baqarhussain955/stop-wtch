@@ -37,7 +37,7 @@ document.getElementById('Stop').addEventListener('click',()=>{
 
 document.getElementById('Restart').addEventListener('click',()=>{
     milli=0
-    hours=0
+    hour=0
     second=0
     mili.innerText='00'
     hour.innerHTML='00'
