@@ -40,7 +40,7 @@ document.getElementById('Restart').addEventListener('click',()=>{
     hour=0
     second=0
     mili.innerText='00'
-    hour.innerHTML='00'
+    hours.innerHTML='00'
     sec.innerHTML='00'
     
 
