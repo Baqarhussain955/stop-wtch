@@ -1,0 +1,76 @@
+*{
+    background: rgb(69,73,252);
+background: linear-gradient(90deg, rgba(69,73,252,1) 5%, rgba(131,58,180,1) 30%, rgba(253,29,29,1) 100%);
+}
+.fle{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    background: transparent;
+  
+
+}
+.timer{
+    font-size: 80px;
+    margin-bottom: 10px;
+    width: 400px;
+    background: transparent;
+   
+
+}
+
+.btn{
+    text-align: center;
+    background: transparent;
+}
+#Start{
+    font-size: 20px;
+    border-radius: 20px;
+    background: transparent;
+    font-weight: bold;
+}
+#Stop{
+    font-size: 20px;
+    border-radius: 20px;
+    background: transparent;
+    font-weight: bold;
+}
+#Restart{
+    font-size: 20px;
+    border-radius: 20px;
+    background: transparent;
+    font-weight: bold;
+}
+
+.clck{
+    border-right: 1px solid red;
+    padding: 6px;
+    background: transparent;
+
+    
+    
+
+}
+
+#plist{
+    list-style: none;
+    width: 200px;
+    background: transparent;
+
+}
+.pp{
+    background: transparent;
+}
+
+#plist li{
+    font-size: 40px;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    margin: 5px;
+    background: transparent;
+}
+span{
+    background: transparent;
+}
